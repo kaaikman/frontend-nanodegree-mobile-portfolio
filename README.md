@@ -1,4 +1,5 @@
 ## Website Performance Optimization portfolio project
+[View here](https://kaaikman.github.io/frontend-nanodegree-mobile-portfolio/)
 
 ### index.html
 * Made the js load asynchronously
